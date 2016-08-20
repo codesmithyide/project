@@ -1,7 +1,9 @@
 # CodeSmithy - Project data
 
-CodeSmithy is an IDE in very early stages of development. This repository
-contains project data.
+CodeSmithy is an IDE in very early stages of development. It is currently
+only really useful to me for my own projects.
+
+This repository contains project data.
 The code for the IDE can be found in the https://github.com/CodeSmithyIDE/CodeSmithy
 repository.
 
