@@ -9,6 +9,7 @@ This repository contains the project documentation.
 
 - [CodeSmithy](https://github.com/CodeSmithyIDE/CodeSmithy): The code for the IDE.
 - [UMLWebWidget](https://github.com/CodeSmithyIDE/UMLWebWidget): A jQuery widget to display UML diagrams.
+- [Bootstrap](https://github.com/CodeSmithyIDE/Bootstrap): The scripts to build the CodeSmithy IDE from scratch.
 
 ## License
 
