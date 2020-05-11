@@ -1,18 +1,4 @@
-# CodeSmithy - Project Documentation
-
-CodeSmithy is an IDE in very early stages of development. It is currently
-only really useful to me for my own projects.
-
-This repository contains the project documentation.
-
-## Contents
-
-- [CodeSmithy](https://github.com/CodeSmithyIDE/CodeSmithy): The code for the IDE.
-- [UMLWebWidget](https://github.com/CodeSmithyIDE/UMLWebWidget): A jQuery widget to display UML diagrams.
-
-## License
-
-Copyright (c) 2015-2020 Xavier Leclercq
+Copyright (c) 2016-2020 Xavier Leclercq
 
 Permission is hereby granted, free of charge, to any person obtaining a
 copy of this software and associated documentation files (the "Software"),
