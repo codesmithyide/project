@@ -7,6 +7,8 @@ This repository contains the project documentation.
 
 ## Contents
 
+- [Bootstrap](https://github.com/codesmithyide/Bootstrap): The scripts to build the CodeSmithy IDE from scratch.
+
 - [BuildToolchains](https://github.com/codesmithyide/build-toolchains): code to compile and link code using different toolchains.
 
   [![codesmithyide](https://circleci.com/gh/codesmithyide/build-toolchains.svg?style=shield)](https://circleci.com/gh/codesmithyide/build-toolchains)
@@ -16,7 +18,10 @@ This repository contains the project documentation.
   [![codesmithyide](https://circleci.com/gh/codesmithyide/codesmithy.svg?style=shield)](https://circleci.com/gh/codesmithyide/codesmithy)
 
 - [UMLWebWidget](https://github.com/codesmithyide/UMLWebWidget): A jQuery widget to display UML diagrams.
-- [Bootstrap](https://github.com/codesmithyide/Bootstrap): The scripts to build the CodeSmithy IDE from scratch.
+
+- [VersionControl](https://github.com/codesmithyide/version-control): code to interact with version control systems.
+
+  [![codesmithyide](https://circleci.com/gh/codesmithyide/version-control.svg?style=shield)](https://circleci.com/gh/codesmithyide/version-control)
 
 
 ## Support
