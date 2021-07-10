@@ -7,12 +7,16 @@ This repository contains the project documentation.
 
 ## Contents
 
-- [CodeSmithy](https://github.com/CodeSmithyIDE/CodeSmithy): The code for the IDE.
+- [BuildToolchains](https://github.com/codesmithyide/build-toolchains): code to compile and link code using different toolchains.
 
-  [![ishiko-cpp](https://circleci.com/gh/codesmithyide/codesmithy.svg?style=shield)](https://circleci.com/gh/codesmithyide/codesmithy)
+  [![codesmithyide](https://circleci.com/gh/codesmithyide/build-toolchains.svg?style=shield)](https://circleci.com/gh/codesmithyide/build-toolchains)
 
-- [UMLWebWidget](https://github.com/CodeSmithyIDE/UMLWebWidget): A jQuery widget to display UML diagrams.
-- [Bootstrap](https://github.com/CodeSmithyIDE/Bootstrap): The scripts to build the CodeSmithy IDE from scratch.
+- [CodeSmithy](https://github.com/codesmithyide/codesmithy): The code for the IDE.
+
+  [![codesmithyide](https://circleci.com/gh/codesmithyide/codesmithy.svg?style=shield)](https://circleci.com/gh/codesmithyide/codesmithy)
+
+- [UMLWebWidget](https://github.com/codesmithyide/UMLWebWidget): A jQuery widget to display UML diagrams.
+- [Bootstrap](https://github.com/codesmithyide/Bootstrap): The scripts to build the CodeSmithy IDE from scratch.
 
 
 ## Support
