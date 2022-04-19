@@ -17,6 +17,10 @@ This repository contains the project documentation.
 
   [![codesmithyide](https://circleci.com/gh/codesmithyide/codesmithy.svg?style=shield)](https://circleci.com/gh/codesmithyide/codesmithy)
 
+- [ContentPlatform](https://github.com/codesmithyide/content-platform): the CodeSmithy content platform.
+
+  [![codesmithyide](https://circleci.com/gh/codesmithyide/content-platform.svg?style=shield)](https://circleci.com/gh/codesmithyide/content-platform)
+
 - [UMLWebWidget](https://github.com/codesmithyide/UMLWebWidget): A jQuery widget to display UML diagrams.
 
 - [VersionControl](https://github.com/codesmithyide/version-control): code to interact with version control systems.
@@ -30,7 +34,7 @@ None.
 
 ## License
 
-Copyright (c) 2015-2021 Xavier Leclercq
+Copyright (c) 2015-2022 Xavier Leclercq
 
 Permission is hereby granted, free of charge, to any person obtaining a
 copy of this software and associated documentation files (the "Software"),
