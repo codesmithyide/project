@@ -21,6 +21,10 @@ This repository contains the project documentation.
 
   [![codesmithyide](https://circleci.com/gh/codesmithyide/content-platform.svg?style=shield)](https://circleci.com/gh/codesmithyide/content-platform)
 
+- [Doxygen](https://github.com/codesmithyide/doxygen): tools to work with Doxygen.
+
+  [![codesmithyide](https://circleci.com/gh/codesmithyide/doxygen.svg?style=shield)](https://circleci.com/gh/codesmithyide/doxygen)
+
 - [UMLWebWidget](https://github.com/codesmithyide/UMLWebWidget): A jQuery widget to display UML diagrams.
 
 - [VersionControl](https://github.com/codesmithyide/version-control): code to interact with version control systems.
