@@ -9,6 +9,10 @@ This repository contains the project documentation.
 
 - [Bootstrap](https://github.com/codesmithyide/Bootstrap): The scripts to build the CodeSmithy IDE from scratch.
 
+- [BuildFiles](https://github.com/codesmithyide/build-files): code to read and update build files.
+
+  [![codesmithyide](https://circleci.com/gh/codesmithyide/build-files.svg?style=shield)](https://circleci.com/gh/codesmithyide/build-files)
+
 - [BuildToolchains](https://github.com/codesmithyide/build-toolchains): code to compile and link code using different toolchains.
 
   [![codesmithyide](https://circleci.com/gh/codesmithyide/build-toolchains.svg?style=shield)](https://circleci.com/gh/codesmithyide/build-toolchains)
@@ -38,7 +42,7 @@ None.
 
 ## License
 
-Copyright (c) 2015-2022 Xavier Leclercq
+Copyright (c) 2015-2023 Xavier Leclercq
 
 Permission is hereby granted, free of charge, to any person obtaining a
 copy of this software and associated documentation files (the "Software"),
