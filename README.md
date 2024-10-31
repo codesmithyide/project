@@ -5,6 +5,7 @@ only really useful to me for my own projects.
 
 This repository contains the project documentation.
 
+
 ## Contents
 
 - [Bootstrap](https://github.com/codesmithyide/Bootstrap): The scripts to build the CodeSmithy IDE from scratch.
@@ -36,13 +37,27 @@ This repository contains the project documentation.
   [![codesmithyide](https://circleci.com/gh/codesmithyide/version-control.svg?style=shield)](https://circleci.com/gh/codesmithyide/version-control)
 
 
+## Installation
+
+### Installing the CodeSmithy components
+
+The following build order can be used to build the projects from scratch:
+
+1. build-toolchains
+1. build-files
+1. version-control
+1. codesmithy/core
+1. codesmithy/cli
+
+
 ## Support
 
 None.
 
+
 ## License
 
-Copyright (c) 2015-2023 Xavier Leclercq
+Copyright (c) 2015-2024 Xavier Leclercq
 
 Permission is hereby granted, free of charge, to any person obtaining a
 copy of this software and associated documentation files (the "Software"),
