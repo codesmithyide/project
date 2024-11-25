@@ -30,6 +30,10 @@ This repository contains the project documentation.
 
   [![codesmithyide](https://circleci.com/gh/codesmithyide/doxygen.svg?style=shield)](https://circleci.com/gh/codesmithyide/doxygen)
 
+- [PackageToolchains](https://github.com/codesmithyide/package-toolchains): code to create installation packages.
+
+  [![codesmithyide](https://circleci.com/gh/codesmithyide/package-toolchains.svg?style=shield)](https://circleci.com/gh/codesmithyide/package-toolchains)
+
 - [UMLWebWidget](https://github.com/codesmithyide/UMLWebWidget): A jQuery widget to display UML diagrams.
 
 - [VersionControl](https://github.com/codesmithyide/version-control): code to interact with version control systems.
@@ -46,6 +50,7 @@ The following build order can be used to build the projects from scratch:
 1. build-toolchains
 1. build-files
 1. version-control
+1. package-toolchains
 1. codesmithy/core
 1. codesmithy/cli
 
