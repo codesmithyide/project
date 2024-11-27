@@ -26,6 +26,10 @@ This repository contains the project documentation.
 
   [![codesmithyide](https://circleci.com/gh/codesmithyide/content-platform.svg?style=shield)](https://circleci.com/gh/codesmithyide/content-platform)
 
+- [DebianRepositoryTools](https://github.com/codesmithyide/debian-repository-tools): tools to manage Debian repositories.
+
+  [![codesmithyide](https://circleci.com/gh/codesmithyide/debian-repository-tools.svg?style=shield)](https://circleci.com/gh/codesmithyide/debian-repository-tools)
+
 - [Doxygen](https://github.com/codesmithyide/doxygen): tools to work with Doxygen.
 
   [![codesmithyide](https://circleci.com/gh/codesmithyide/doxygen.svg?style=shield)](https://circleci.com/gh/codesmithyide/doxygen)
@@ -51,6 +55,7 @@ The following build order can be used to build the projects from scratch:
 1. build-files
 1. version-control
 1. package-toolchains
+1. debian-repository-tools
 1. codesmithy/core
 1. codesmithy/cli
 
